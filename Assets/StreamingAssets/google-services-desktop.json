@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "126589179264",
+    "project_id": "virtual-succubus",
+    "storage_bucket": "virtual-succubus.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:126589179264:android:f0292f998047345b589d65",
+        "android_client_info": {
+          "package_name": "com.SuccuDev.VirtualSuccubusNew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "126589179264-jrj58r98a3mtv66bq1vrusgeg30ssvg2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3AFbUVug-iqSLq-NLZhZF7ftXAowPwlU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "126589179264-jrj58r98a3mtv66bq1vrusgeg30ssvg2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
